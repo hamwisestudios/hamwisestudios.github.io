@@ -1,0 +1,3 @@
+google.com, pub-5707837108283564, DIRECT, f08c47fec0942fa0
+ironsource.com, 466059, DIRECT
+unityads.com, 466059, DIRECT
